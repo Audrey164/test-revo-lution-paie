@@ -22,10 +22,11 @@ Application de gestion du personnel développée en Python avec Tkinter et SQLit
 - **Sécurité** : Utilisation stricte de paramètres préparés (placeholders `?`) dans les requêtes SQL pour prévenir toute injection.
 
 ## Capture d'écran
+<img width="1917" height="1020" alt="Capture1" src="https://github.com/user-attachments/assets/f3aa4216-fc33-47e7-a595-fe06db5d621e" />
+<img width="1917" height="1015" alt="Capture2" src="https://github.com/user-attachments/assets/090ad6b5-24df-4b2d-b284-752036cdfc1d" />
+<img width="1917" height="1018" alt="Capture3" src="https://github.com/user-attachments/assets/b825c8f1-4849-435b-b2b5-3f1cbe43ba00" />
+<img width="1916" height="1022" alt="Capture4" src="https://github.com/user-attachments/assets/9cb7bd93-7bf6-4670-9c06-8a2b771f8c40" />
 
-<img width="1918" height="1026" alt="Capture1" src="https://github.com/user-attachments/assets/d7ba9803-5014-4bea-858c-3a5e11a94b58" />
-<img width="1917" height="1013" alt="Capture2" src="https://github.com/user-attachments/assets/0d9b3278-523e-40db-970f-f7d5c248772a" />
-<img width="1918" height="1022" alt="Capture3" src="https://github.com/user-attachments/assets/4a301356-dd9d-4ecb-be79-bd12d7556bff" />
 
 
 
