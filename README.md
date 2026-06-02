@@ -27,7 +27,3 @@ Application de gestion du personnel développée en Python avec Tkinter et SQLit
 <img width="1917" height="1018" alt="Capture3" src="https://github.com/user-attachments/assets/b825c8f1-4849-435b-b2b5-3f1cbe43ba00" />
 <img width="1916" height="1022" alt="Capture4" src="https://github.com/user-attachments/assets/9cb7bd93-7bf6-4670-9c06-8a2b771f8c40" />
 
-
-
-
-<img width="1918" height="1026" alt="Capture1" src="https://github.com/user-attachments/assets/d5bdcc65-76e8-4e8d-b13c-ac6ad50cffa8" />
