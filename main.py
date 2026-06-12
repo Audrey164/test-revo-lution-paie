@@ -1,3 +1,4 @@
+import sys
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import sqlite3
@@ -68,7 +69,7 @@ class App:
         try:
             self.load_data ()
         except sqlite3.OperationalError:
-            messgabox.showerror ("Erreur critique", "Base de donnée introuvable L'application va se fermer")
+            messagebox.showerror ("Erreur critique", "Base de donnée introuvable L'application va se fermer")
             self.root.destroy()
             sys.exist()
 
