@@ -62,7 +62,15 @@ class App:
                   bg="#27ae60", fg="white", font=('Segoe UI', 11, 'bold'), 
                   relief="flat", cursor="hand2", padx=30, pady=10).pack()
 
-        self.load_data()
+        self.root_after(100, self.self_load_data)
+
+    def safe_load_data(self): 
+        try:
+            self.load_data ()
+        except sqlite3.OperationalError:
+            messgabox.showerror ("Erreur critique", "Base de donnée introuvable L'application va se fermer")
+            self.root.destroy()
+            sys.exist()
 
     def load_data(self, query=None):
         for item in self.tree.get_children(): self.tree.delete(item)
